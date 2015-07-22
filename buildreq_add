@@ -1,0 +1,10 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+ruby
+rubygem-hpricot
+rubygem-mustache
+rubygem-rake
+rubygem-rdiscount
+rubygem-rdoc
+rubygem-test-unit
+rubygem-minitest
